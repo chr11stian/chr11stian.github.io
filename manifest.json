@@ -1,0 +1,25 @@
+{
+  "short_name": "Mariana Santos",
+  "name": "Mariana Santos: Desenvolvedora Frontend",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo163.png",
+      "type": "image/png",
+      "sizes": "163x163"
+    },
+    {
+      "src": "logo653.png",
+      "type": "image/png",
+      "sizes": "653x652"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

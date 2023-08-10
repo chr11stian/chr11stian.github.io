@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4faf99e.css",
+    "main.js": "/static/js/main.2627f724.js",
+    "static/media/main-picture.jpg": "/static/media/main-picture.e757bc2068402f98cdfd.jpg",
+    "static/media/historias.jpg": "/static/media/historias.7bb4fbcf1a4f2e10ca0a.jpg",
+    "static/media/contact-picture.jpg": "/static/media/contact-picture.8f39c2d7e558099af84d.jpg",
+    "static/media/mongodb.png": "/static/media/mongodb.6170bacefd8a1f69ca74.png",
+    "static/media/node.png": "/static/media/node.026e4f503d8e3d32a960.png",
+    "static/media/c++.png": "/static/media/c++.34777258570244e27222.png",
+    "static/media/angular.png": "/static/media/angular.b6d2a9dec3e43e0ffb95.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.35ae969b26d06365136e.png",
+    "static/media/php.png": "/static/media/php.0b219192d2313755d9f4.png",
+    "static/media/html.png": "/static/media/html.c4d9c8dcdf4078875355.png",
+    "static/media/wordpress.png": "/static/media/wordpress.a048a384d682817dc71a.png",
+    "static/media/react native.png": "/static/media/react native.c622f19c9471227dcd41.png",
+    "static/media/react.png": "/static/media/react.c622f19c9471227dcd41.png",
+    "static/media/css.png": "/static/media/css.2145bb6c7160a7e0d8ab.png",
+    "static/media/python.png": "/static/media/python.7e7016895572cb30bd35.png",
+    "static/media/java.png": "/static/media/java.26fabfb6a8fae662f174.png",
+    "static/media/chackra ui.png": "/static/media/chackra ui.fc038cab79bb54d9b264.png",
+    "static/media/node js.png": "/static/media/node js.d44a23719d4225d74229.png",
+    "static/media/next js.png": "/static/media/next js.79a21f7aaf85fe69d19a.png",
+    "static/media/scss.png": "/static/media/scss.4e7e48743ee26d11bbe5.png",
+    "static/media/c.png": "/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/sql server.png": "/static/media/sql server.2de48372be632cbb79f3.png",
+    "static/media/sql.png": "/static/media/sql.2de48372be632cbb79f3.png",
+    "static/media/spring.png": "/static/media/spring.9463240a940247a1d9e9.png",
+    "static/media/scrum.png": "/static/media/scrum.20aa4fdac6a9c4bfe7f6.png",
+    "static/media/jquery.png": "/static/media/jquery.f65ec7d05d9a94830373.png",
+    "static/media/illustr-no-results.svg": "/static/media/illustr-no-results.fe162d7642e3e3a8cf64c67fa2f6bf16.svg",
+    "static/media/cv.pdf": "/static/media/cv.c45f231fd278e62de7b2.pdf",
+    "index.html": "/index.html",
+    "main.f4faf99e.css.map": "/static/css/main.f4faf99e.css.map",
+    "main.2627f724.js.map": "/static/js/main.2627f724.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4faf99e.css",
+    "static/js/main.2627f724.js"
+  ]
+}
